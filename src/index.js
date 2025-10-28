@@ -14,19 +14,19 @@ function Main() {
     <Provider store={store}>
       <Router basename={process.env.PUBLIC_URL}>
         <Switch>
-          <Route path="/">
+          <Route path="/login">
+            <EmailLogin />
+          </Route>
+          <Route path="/settings">
+            <Settings />
+          </Route>
+          <Route path="/report">
+            <Report />
+          </Route>
+          <Route exact path="/">
             <App />
           </Route>
         </Switch>
-        <Route path="/login">
-          <EmailLogin />
-        </Route>
-        <Route path="/settings">
-          <Settings />
-        </Route>
-        <Route path="/report">
-          <Report />
-        </Route>
       </Router>
     </Provider>
   );
