@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/naylapomofocus.git/static/css/main.01b4b325.chunk.css",
+    "main.js": "/naylapomofocus.git/static/js/main.c98c82a2.chunk.js",
+    "main.js.map": "/naylapomofocus.git/static/js/main.c98c82a2.chunk.js.map",
+    "runtime-main.js": "/naylapomofocus.git/static/js/runtime-main.fae18611.js",
+    "runtime-main.js.map": "/naylapomofocus.git/static/js/runtime-main.fae18611.js.map",
+    "static/js/2.1aaa0f54.chunk.js": "/naylapomofocus.git/static/js/2.1aaa0f54.chunk.js",
+    "static/js/2.1aaa0f54.chunk.js.map": "/naylapomofocus.git/static/js/2.1aaa0f54.chunk.js.map",
+    "index.html": "/naylapomofocus.git/index.html",
+    "static/css/main.01b4b325.chunk.css.map": "/naylapomofocus.git/static/css/main.01b4b325.chunk.css.map",
+    "static/js/2.1aaa0f54.chunk.js.LICENSE.txt": "/naylapomofocus.git/static/js/2.1aaa0f54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fae18611.js",
+    "static/js/2.1aaa0f54.chunk.js",
+    "static/css/main.01b4b325.chunk.css",
+    "static/js/main.c98c82a2.chunk.js"
+  ]
+}
